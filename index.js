@@ -57,6 +57,11 @@ document.addEventListener('keydown', function(event) {
             blur1.classList.remove('blur');
             blur2.classList.remove('blur');
             blur3.classList.remove('blur');
+            blur4.classList.remove('blur');
+            blur5.classList.remove('blur');
+            blur6.classList.remove('blur');
+            blur7.classList.remove('blur');
+            blur8.classList.remove('blur');
             body.classList.remove('overflow-hidden');
         }
     }
