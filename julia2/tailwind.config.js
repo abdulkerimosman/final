@@ -9,6 +9,9 @@ module.exports = {
         fontSize: {
           'xxs': '0.4rem', 
         },
+        height: {
+        '600': '600px',
+        },
         backgroundImage: {
           'pattern' : "url('./img/pattern.png')",
         },
