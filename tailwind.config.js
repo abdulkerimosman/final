@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./src/**/*.{html,js}"],
+  content: ["./*.{html,js}"],
   theme: {
     extend: {
         fontFamily : {
@@ -14,10 +14,10 @@ module.exports = {
           
         },
         backgroundImage: {
-          'pattern' : "url('./img/pattern.png')",
+          'pattern' : "url('./img/abstract.jpg')",
         },
         backgroundSize : {
-          'xs' : '12.5%',
+          'xs' : '6.25%',
           'small': '25%',
           'medium' : '50%',
         }
