@@ -593,10 +593,6 @@ video {
   left: 3.5rem;
 }
 
-.right-3 {
-  right: 0.75rem;
-}
-
 .top-28 {
   top: 7rem;
 }
@@ -975,7 +971,7 @@ video {
 }
 
 .bg-xs {
-  background-size: 6.25%;
+  background-size: 12.5%;
 }
 
 .bg-repeat {
@@ -1400,6 +1396,10 @@ video {
 
   .lg\:grid-cols-\[minmax\(800px\2c 8fr\)_1fr\] {
     grid-template-columns: minmax(800px,8fr) 1fr;
+  }
+
+  .lg\:bg-xs {
+    background-size: 12.5%;
   }
 
   .lg\:object-\[center_35\%\] {

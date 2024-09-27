@@ -17,7 +17,8 @@ module.exports = {
           'pattern' : "url('./img/abstract.jpg')",
         },
         backgroundSize : {
-          'xs' : '6.25%',
+          'xss' : '6.25%',
+          'xs' : '12.5%',
           'small': '25%',
           'medium' : '50%',
         }
